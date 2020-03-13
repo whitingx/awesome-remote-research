@@ -80,3 +80,7 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 [Miro](https://miro.com/)
 
 [Mural](https://mural.co/)
+
+[Stormboard](http://stormboard.com/)
+
+[Whimsical](https://whimsical.com/)
