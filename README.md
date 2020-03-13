@@ -27,10 +27,13 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 ### Video
 
 [Lookback](https://lookback.io/)
+
 [Zoom](https://zoom.us/)
 
 ### Whiteboards
 
 [InVision Freehand](https://www.invisionapp.com/feature/freehand)
+
 [Miro](https://miro.com/)
+
 [Mural](https://mural.co/)
