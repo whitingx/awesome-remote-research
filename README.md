@@ -6,10 +6,10 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 - 📝 [Articles](#-articles)
   - [2020](#2020)
 - 📚 [Books](#-books)
-- 🗣 [Talks](#-talks)
+- 🗣 [Talks & Videos](#-talks-&-videos)
 - 🧰 [Tools](#-tools)
   - [Retrospectives](#retrospectives)
-  - [Video](#video)
+  - [Screen Share/Video](#screen-share-video)
   - [Whiteboards](#whiteboards)
 
 ## 📝 Articles
@@ -28,9 +28,11 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [So You Want to Host a Web Meeting?](http://www.fullcirc.com/wp/wp-content/uploads/2015/12/SoYouWanttoHostaWebMeeting.pdf)
 
-## 🗣 Talks
+## 🗣 Talks & Videos
 
 [Tips and Advice for Remote Design (and Research) Work](https://vimeo.com/397237913)
+
+[UX Tea Break: Doing User Research During a Pandemic](https://www.youtube.com/watch?v=KQHQ2i_S8aM)
 
 ## 🧰 Tools
 
@@ -38,7 +40,7 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [Metro Retro](https://metroretro.io/)
 
-### Video
+### Screen Share/Video
 
 [GoToMeeting](https://www.gotomeeting.com/)
 
