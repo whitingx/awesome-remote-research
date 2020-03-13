@@ -6,7 +6,7 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 - 📝 [Articles](#-articles)
   - [2020](#2020)
 - 📚 [Books](#-books)
-- 🗣 [Talks & Videos](#-talks-&-videos)
+- 🗣 [Talks & Videos](#-talks--videos)
 - 🧰 [Tools](#-tools)
   - [Retrospectives](#retrospectives)
   - [Screen Share/Video](#screen-share-video)
