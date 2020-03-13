@@ -7,8 +7,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
   - [2020](#2020)
 - 🗣 [Talks](#-talks)
 - 🧰 [Tools](#-tools)
-  - [Video](#-video)
-  - [Whiteboards](#-whiteboards)
+  - [Video](#video)
+  - [Whiteboards](#whiteboards)
 
 ## 📝 Articles
 
