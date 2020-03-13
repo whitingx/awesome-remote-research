@@ -9,7 +9,7 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 - 🗣 [Talks & Videos](#-talks--videos)
 - 🧰 [Tools](#-tools)
   - [Retrospectives](#retrospectives)
-  - [Screen Share/Video](#screen-share-video)
+  - [Screen Share/Video](#screen-sharevideo)
   - [Whiteboards](#whiteboards)
 
 ## 📝 Articles
