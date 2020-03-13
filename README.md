@@ -8,6 +8,7 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 - 📚 [Books](#-books)
 - 🗣 [Talks](#-talks)
 - 🧰 [Tools](#-tools)
+  - [Retrospectives](#retrospectives)
   - [Video](#video)
   - [Whiteboards](#whiteboards)
 
@@ -21,7 +22,11 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 ## 📚 Books
 
+[Mastering Remote Workshops](https://docs.google.com/document/d/1zL_pkVKR57KOO4zqXUwUpfKd0MzPOue3-GQ6mUDu_fQ/edit)
+
 [The definitive guide to facilitating remote workshops](https://mural.co/ebook)
+
+[So You Want to Host a Web Meeting?](http://www.fullcirc.com/wp/wp-content/uploads/2015/12/SoYouWanttoHostaWebMeeting.pdf)
 
 ## 🗣 Talks
 
@@ -29,7 +34,13 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 ## 🧰 Tools
 
+### Retrospectives
+
+[Metro Retro](https://metroretro.io/)
+
 ### Video
+
+[GoToMeeting](https://www.gotomeeting.com/)
 
 [Lookback](https://lookback.io/)
 
