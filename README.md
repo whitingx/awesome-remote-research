@@ -7,6 +7,7 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
   - [2020](#2020)
   - [2019](#2019)
   - [2017](#2017)
+  - [2016](#2016)
 - 📚 [Books](#-books)
 - 🗣 [Talks & Videos](#-talks--videos)
 - 🧰 [Tools](#-tools)
@@ -35,6 +36,10 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 ### 2017
 
 [How to Perfect and Leverage Remote UX Workshops](https://www.toptal.com/designers/ux/mastering-remote-ux-workshops)
+
+### 2016
+
+[Remote workshops: collaboration done virtually](https://hanno.co/blog/remote-workshops/)
 
 ## 📚 Books
 
