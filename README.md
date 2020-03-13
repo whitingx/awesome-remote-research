@@ -5,6 +5,7 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 - 📝 [Articles](#-articles)
   - [2020](#2020)
+- 📚 [Books](#-books)
 - 🗣 [Talks](#-talks)
 - 🧰 [Tools](#-tools)
   - [Video](#video)
@@ -17,6 +18,10 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 [Switching from in person to remote UX Research](https://www.hellopingpong.com/blog/switching-from-in-person-to-remote-ux-research-in-the-time-of-coronavirus) - [Zsolt Kocsmarszky](https://twitter.com/kocsmy)
 
 [You’re grounded: Time to level up your remote research](https://medium.com/@misamisono/youre-grounded-time-to-level-up-your-remote-research-dbac3e63fadb) - [Misa Misono](https://twitter.com/misamisono)
+
+## 📚 Books
+
+[The definitive guide to facilitating remote workshops](https://mural.co/ebook)
 
 ## 🗣 Talks
 
