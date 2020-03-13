@@ -8,6 +8,7 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
   - [2019](#2019)
   - [2017](#2017)
   - [2016](#2016)
+  - [2014](#2014)
 - 📚 [Books](#-books)
 - 🗣 [Talks & Videos](#-talks--videos)
 - 🧰 [Tools](#-tools)
@@ -33,13 +34,21 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [What I’ve learned from facilitating over 100 remote collaborative workshops](https://miro.com/blog/100-remote-workshops-learnings/) - [Shipra Kayan](https://twitter.com/skayan)
 
+[What we learned about improving remote workshops](https://www.dxw.com/2019/10/what-we-learned-about-improving-remote-workshops/) - Israt Choudhury & Amy Marie Phillips
+
 ### 2017
 
 [How to Perfect and Leverage Remote UX Workshops](https://www.toptal.com/designers/ux/mastering-remote-ux-workshops)
 
 ### 2016
 
+[Remote User Research & Usability Methods](https://uxmag.com/articles/remote-user-research-usability-methods)
+
 [Remote workshops: collaboration done virtually](https://hanno.co/blog/remote-workshops/)
+
+### 2014
+
+[The Hidden Benefits of Remote Research](https://www.uxbooth.com/articles/hidden-benefits-remote-research/)
 
 ## 📚 Books
 
@@ -58,6 +67,10 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 [UX Tea Break: Doing User Research During a Pandemic](https://www.youtube.com/watch?v=KQHQ2i_S8aM)
 
 ## 🧰 Tools
+
+### General
+
+[Remote UX Research Tools](http://remoteresear.ch/tools/)
 
 ### Retrospectives
 
