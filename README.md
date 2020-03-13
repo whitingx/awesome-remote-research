@@ -20,13 +20,15 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [Switching from in person to remote UX Research](https://www.hellopingpong.com/blog/switching-from-in-person-to-remote-ux-research-in-the-time-of-coronavirus) - [Zsolt Kocsmarszky](https://twitter.com/kocsmy)
 
-[Tools for Remote UX Workshops](https://www.nngroup.com/articles/tools-remote-ux-workshops/)
+[Tools for Remote UX Workshops](https://www.nngroup.com/articles/tools-remote-ux-workshops/) - Therese Fessenden
 
 [You’re grounded: Time to level up your remote research](https://medium.com/@misamisono/youre-grounded-time-to-level-up-your-remote-research-dbac3e63fadb) - [Misa Misono](https://twitter.com/misamisono)
 
 ### 2019
 
-[A best-practice guide for how to run more effective digital workshops.](https://uxdesign.cc/the-future-of-the-workshop-is-remote-a3e2b4b6249c)
+[A best-practice guide for how to run more effective digital workshops.](https://uxdesign.cc/the-future-of-the-workshop-is-remote-a3e2b4b6249c) - Alex Severin
+
+[How to run ideation workshops remotely](https://medium.com/unconform-stories/how-to-run-ideation-workshops-remotely-ac76e495ba27) - Mansi Gupta
 
 [What I’ve learned from facilitating over 100 remote collaborative workshops](https://miro.com/blog/100-remote-workshops-learnings/) - [Shipra Kayan](https://twitter.com/skayan)
 
