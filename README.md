@@ -5,6 +5,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 - 📝 [Articles](#-articles)
   - [2020](#2020)
+  - [2019](#2019)
+  - [2017](#2017)
 - 📚 [Books](#-books)
 - 🗣 [Talks & Videos](#-talks--videos)
 - 🧰 [Tools](#-tools)
@@ -18,7 +20,19 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [Switching from in person to remote UX Research](https://www.hellopingpong.com/blog/switching-from-in-person-to-remote-ux-research-in-the-time-of-coronavirus) - [Zsolt Kocsmarszky](https://twitter.com/kocsmy)
 
+[Tools for Remote UX Workshops](https://www.nngroup.com/articles/tools-remote-ux-workshops/)
+
 [You’re grounded: Time to level up your remote research](https://medium.com/@misamisono/youre-grounded-time-to-level-up-your-remote-research-dbac3e63fadb) - [Misa Misono](https://twitter.com/misamisono)
+
+### 2019
+
+[A best-practice guide for how to run more effective digital workshops.](https://uxdesign.cc/the-future-of-the-workshop-is-remote-a3e2b4b6249c)
+
+[What I’ve learned from facilitating over 100 remote collaborative workshops](https://miro.com/blog/100-remote-workshops-learnings/) - [Shipra Kayan](https://twitter.com/skayan)
+
+### 2017
+
+[How to Perfect and Leverage Remote UX Workshops](https://www.toptal.com/designers/ux/mastering-remote-ux-workshops)
 
 ## 📚 Books
 
@@ -29,6 +43,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 [So You Want to Host a Web Meeting?](http://www.fullcirc.com/wp/wp-content/uploads/2015/12/SoYouWanttoHostaWebMeeting.pdf)
 
 ## 🗣 Talks & Videos
+
+[How to run a remote workshop](https://www.youtube.com/watch?v=wQpA_OMJGV0)
 
 [Tips and Advice for Remote Design (and Research) Work](https://vimeo.com/397237913)
 
