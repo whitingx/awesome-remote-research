@@ -9,7 +9,7 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
   - [2017](#2017)
   - [2016](#2016)
   - [2014](#2014)
-- 📚 [Books, Guides & Documents](#-books)
+- 📚 [Books, Guides & Documents](#-books-guides--documents)
 - 🗣 [Talks & Videos](#-talks--videos)
 - 🧰 [Tools](#-tools)
   - [Retrospectives](#retrospectives)
