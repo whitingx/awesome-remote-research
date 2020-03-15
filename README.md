@@ -6,6 +6,7 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 - 📝 [Articles](#-articles)
   - [2020](#2020)
   - [2019](#2019)
+  - [2018](#2018)
   - [2017](#2017)
   - [2016](#2016)
   - [2014](#2014)
@@ -35,6 +36,10 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 [What I’ve learned from facilitating over 100 remote collaborative workshops](https://miro.com/blog/100-remote-workshops-learnings/) - [Shipra Kayan](https://twitter.com/skayan)
 
 [What we learned about improving remote workshops](https://www.dxw.com/2019/10/what-we-learned-about-improving-remote-workshops/) - Israt Choudhury & Amy Marie Phillips
+
+### 2018
+
+[7 tips for smoother remote moderated usability studies](https://www.usertesting.com/blog/7-tips-smoother-remote-moderated-usability-studies) - [Devin Harold](https://twitter.com/DevinHarold)
 
 ### 2017
 
