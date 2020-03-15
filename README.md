@@ -96,4 +96,6 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [Stormboard](http://stormboard.com/)
 
+[Web Whiteboard](https://www.webwhiteboard.com/)
+
 [Whimsical](https://whimsical.com/)
