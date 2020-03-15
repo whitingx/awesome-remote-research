@@ -50,7 +50,7 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [The Hidden Benefits of Remote Research](https://www.uxbooth.com/articles/hidden-benefits-remote-research/)
 
-## 📚 Books
+## 📚 Books, Guides & Documents
 
 [Mastering Remote Workshops](https://docs.google.com/document/d/1zL_pkVKR57KOO4zqXUwUpfKd0MzPOue3-GQ6mUDu_fQ/edit)
 
