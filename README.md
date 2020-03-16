@@ -11,7 +11,7 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
   - [2016](#2016)
   - [2014](#2014)
 - 📚 [Books, Guides & Documents](#-books-guides--documents)
-- 🗣 [Talks & Videos](#-talks--videos)
+- 🗣 [Talks, Videos & Podvasts](#-talks--videos)
 - 🧰 [Tools](#-tools)
   - [Retrospectives](#retrospectives)
   - [Scheduling](#scheduling)
@@ -36,11 +36,15 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [How to run ideation workshops remotely](https://medium.com/unconform-stories/how-to-run-ideation-workshops-remotely-ac76e495ba27) - Mansi Gupta
 
+[The Best Video Conferencing Tools for Remote User Testing](https://www.userinterviews.com/blog/the-best-video-conferencing-tools-for-remote-user-testing) - Carrie Boyd
+
 [What I’ve learned from facilitating over 100 remote collaborative workshops](https://miro.com/blog/100-remote-workshops-learnings/) - [Shipra Kayan](https://twitter.com/skayan)
 
 [What we learned about improving remote workshops](https://www.dxw.com/2019/10/what-we-learned-about-improving-remote-workshops/) - Israt Choudhury & Amy Marie Phillips
 
 ### 2018
+
+[3 Simple Ways to Improve Your Remote User Interviews](https://www.userinterviews.com/blog/3-simple-ways-to-improve-your-remote-user-interviews) - Ritika Puri
 
 [7 tips for smoother remote moderated usability studies](https://www.usertesting.com/blog/7-tips-smoother-remote-moderated-usability-studies) - [Devin Harold](https://twitter.com/DevinHarold)
 
@@ -68,9 +72,11 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [So You Want to Host a Web Meeting?](http://www.fullcirc.com/wp/wp-content/uploads/2015/12/SoYouWanttoHostaWebMeeting.pdf)
 
-## 🗣 Talks & Videos
+## 🗣 Talks, Videos & 🎧 Podcasts
 
 [How to run a remote workshop](https://www.youtube.com/watch?v=wQpA_OMJGV0)
+
+[Running Amazing Remote UX Research Sessions](https://www.userinterviews.com/blog/running-amazing-remote-ux-research-sessions-with-sonya-badigian) 🎧
 
 [Tips and Advice for Remote Design (and Research) Work](https://vimeo.com/397237913)
 
@@ -93,6 +99,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 [Zoho Bookings](https://www.zoho.com/bookings/)
 
 ### Screen Share/Video
+
+[BlueJeans](https://www.bluejeans.com/)
 
 [Google Hangouts](https://hangouts.google.com/)
 
