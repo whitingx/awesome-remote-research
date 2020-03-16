@@ -85,6 +85,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 ### Screen Share/Video
 
+[Google Hangouts](https://hangouts.google.com/)
+
 [GoToMeeting](https://www.gotomeeting.com/)
 
 [Lookback](https://lookback.io/)
