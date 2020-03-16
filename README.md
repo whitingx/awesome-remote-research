@@ -43,6 +43,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [7 tips for smoother remote moderated usability studies](https://www.usertesting.com/blog/7-tips-smoother-remote-moderated-usability-studies) - [Devin Harold](https://twitter.com/DevinHarold)
 
+[Moderating UX research with Zoom](https://uxdesign.cc/moderating-ux-research-with-zoom-1d4e89614277) - [David Hamill](https://twitter.com/dav_hamill)
+
 ### 2017
 
 [How to Perfect and Leverage Remote UX Workshops](https://www.toptal.com/designers/ux/mastering-remote-ux-workshops)
