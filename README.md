@@ -11,7 +11,7 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
   - [2016](#2016)
   - [2014](#2014)
 - 📚 [Books, Guides & Documents](#-books-guides--documents)
-- 🗣 [Talks, Videos & Podvasts](#-talks--videos)
+- 🗣 [Talks, Videos & Podcasts](#-talks-videos---podcasts)
 - 🧰 [Tools](#-tools)
   - [Retrospectives](#retrospectives)
   - [Scheduling](#scheduling)
