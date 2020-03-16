@@ -14,6 +14,7 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 - 🗣 [Talks & Videos](#-talks--videos)
 - 🧰 [Tools](#-tools)
   - [Retrospectives](#retrospectives)
+  - [Scheduling](#scheduling)
   - [Screen Share/Video](#screen-sharevideo)
   - [Whiteboards](#whiteboards)
 
