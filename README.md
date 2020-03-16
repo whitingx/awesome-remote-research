@@ -21,6 +21,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 ### 2020
 
+[7 Tips for Great Online Workshops](https://medium.com/@jseiden/7-tips-for-great-online-workshops-c13a3dfa462d) - [Josh Seiden](https://twitter.com/jseiden/) & [Jeff Gothelf](https://twitter.com/jboogie/)
+
 [Switching from in person to remote UX Research](https://www.hellopingpong.com/blog/switching-from-in-person-to-remote-ux-research-in-the-time-of-coronavirus) - [Zsolt Kocsmarszky](https://twitter.com/kocsmy)
 
 [Tools for Remote UX Workshops](https://www.nngroup.com/articles/tools-remote-ux-workshops/) - Therese Fessenden
