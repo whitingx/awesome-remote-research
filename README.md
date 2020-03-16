@@ -85,11 +85,19 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [Metro Retro](https://metroretro.io/)
 
+### Scheduling
+
+[Calendly](https://calendly.com/)
+
+[Zoho Bookings](https://www.zoho.com/bookings/)
+
 ### Screen Share/Video
 
 [Google Hangouts](https://hangouts.google.com/)
 
 [GoToMeeting](https://www.gotomeeting.com/)
+
+[Jitsi Meet](https://meet.jit.si/)
 
 [Lookback](https://lookback.io/)
 
