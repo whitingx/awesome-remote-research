@@ -26,6 +26,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [Switching from in person to remote UX Research](https://www.hellopingpong.com/blog/switching-from-in-person-to-remote-ux-research-in-the-time-of-coronavirus) - [Zsolt Kocsmarszky](https://twitter.com/kocsmy)
 
+[Tips for UX researchers working remotely from home](https://medium.com/@sticktail/tips-for-ux-researchers-working-remotely-from-home-7acad825e866)
+
 [Tools for Remote UX Workshops](https://www.nngroup.com/articles/tools-remote-ux-workshops/) - Therese Fessenden
 
 [You’re grounded: Time to level up your remote research](https://medium.com/@misamisono/youre-grounded-time-to-level-up-your-remote-research-dbac3e63fadb) - [Misa Misono](https://twitter.com/misamisono)
