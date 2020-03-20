@@ -76,6 +76,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 ## 🗣 Talks, Videos & 🎧 Podcasts
 
+[A crash course in running remote Design Sprints and innovating with distributed teams](https://www.youtube.com/watch?v=BpM_FO3ucQA)
+
 [How to run a remote workshop](https://www.youtube.com/watch?v=wQpA_OMJGV0)
 
 [Running Amazing Remote UX Research Sessions](https://www.userinterviews.com/blog/running-amazing-remote-ux-research-sessions-with-sonya-badigian) 🎧
