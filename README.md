@@ -58,6 +58,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [How to Perfect and Leverage Remote UX Workshops](https://www.toptal.com/designers/ux/mastering-remote-ux-workshops)
 
+[Remote Design at IBM: Best Practices for Facilitation](https://blog.mural.co/2017/03/30/remote-design-at-ibm)
+
 ### 2016
 
 [Remote User Research & Usability Methods](https://uxmag.com/articles/remote-user-research-usability-methods)
