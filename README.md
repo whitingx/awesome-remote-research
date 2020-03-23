@@ -26,6 +26,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [10 quick tips for running remote UX workshops](https://uxdesign.cc/running-remote-ux-workshops-d75fd6b9febe) - [Kyle Cass](https://twitter.com/kyecass)
 
+[Remote working &  facilitation sessions ](https://www.thisismilk.co.uk/blog/remote-working-facilitation-sessions)
+
 [Switching from in person to remote UX Research](https://www.hellopingpong.com/blog/switching-from-in-person-to-remote-ux-research-in-the-time-of-coronavirus) - [Zsolt Kocsmarszky](https://twitter.com/kocsmy)
 
 [Tips for UX researchers working remotely from home](https://medium.com/@sticktail/tips-for-ux-researchers-working-remotely-from-home-7acad825e866)
