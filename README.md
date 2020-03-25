@@ -122,9 +122,13 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [GoToMeeting](https://www.gotomeeting.com/)
 
+[jami](https://jami.net/)
+
 [Jitsi Meet](https://meet.jit.si/)
 
 [Lookback](https://lookback.io/)
+
+[openVidu](https://openvidu.io/)
 
 [Whereby](https://whereby.com/)
 
