@@ -34,6 +34,10 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [Tools for Remote UX Workshops](https://www.nngroup.com/articles/tools-remote-ux-workshops/) - Therese Fessenden
 
+[Well then, let’s turn to remote research! Part 1: preparation](https://www.linkedin.com/pulse/well-lets-turn-remote-research-part-1-preparation-nina-schacht/) - [Nina Schacht](https://twitter.com/NinBerlin)
+
+[Well then, let’s turn to remote research! Part 2: Sharing Stimulus Material](https://www.linkedin.com/pulse/well-lets-turn-remote-research-part-2-sharing-stimulus-nina-schacht/) - [Nina Schacht](https://twitter.com/NinBerlin)
+
 [You’re grounded: Time to level up your remote research](https://medium.com/@misamisono/youre-grounded-time-to-level-up-your-remote-research-dbac3e63fadb) - [Misa Misono](https://twitter.com/misamisono)
 
 ### 2019
@@ -73,6 +77,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 [The Hidden Benefits of Remote Research](https://www.uxbooth.com/articles/hidden-benefits-remote-research/)
 
 ## 📚 Books, Guides & Documents
+
+[Making design research work remotely](https://docs.google.com/presentation/d/1T0sjyDlvCRJG95q9LYmPiPaU8baLG7L2IQwRpNsfq2M/edit#slide=id.g4e808df0f1_2_208)
 
 [Mastering Remote Workshops](https://docs.google.com/document/d/1zL_pkVKR57KOO4zqXUwUpfKd0MzPOue3-GQ6mUDu_fQ/edit)
 
