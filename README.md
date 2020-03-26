@@ -34,6 +34,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [Tools for Remote UX Workshops](https://www.nngroup.com/articles/tools-remote-ux-workshops/) - Therese Fessenden
 
+[Top tools and services for remote user research](https://uxdesign.cc/the-top-tools-and-services-for-remote-user-research-567a51787b0e) - [Alexis Gerome](https://twitter.com/Alexgkr)
+
 [Well then, let’s turn to remote research! Part 1: preparation](https://www.linkedin.com/pulse/well-lets-turn-remote-research-part-1-preparation-nina-schacht/) - [Nina Schacht](https://twitter.com/NinBerlin)
 
 [Well then, let’s turn to remote research! Part 2: Sharing Stimulus Material](https://www.linkedin.com/pulse/well-lets-turn-remote-research-part-2-sharing-stimulus-nina-schacht/) - [Nina Schacht](https://twitter.com/NinBerlin)
