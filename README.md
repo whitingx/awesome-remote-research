@@ -142,6 +142,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 ### Whiteboards
 
+[Excalidraw](https://excalidraw.com/)
+
 [InVision Freehand](https://www.invisionapp.com/feature/freehand)
 
 [Miro](https://miro.com/)
