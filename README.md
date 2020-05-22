@@ -28,6 +28,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [A guide to doing remote research from home](https://www.curioresearch.net/news-notes/2020/4/2/a-guide-to-doing-remote-research-from-home)
 
+[How to run a remote design sprint](https://www.abstract.com/blog/run-a-remote-design-sprint/)
+
 [Remote working &  facilitation sessions ](https://www.thisismilk.co.uk/blog/remote-working-facilitation-sessions)
 
 [Switching from in person to remote UX Research](https://www.hellopingpong.com/blog/switching-from-in-person-to-remote-ux-research-in-the-time-of-coronavirus) - [Zsolt Kocsmarszky](https://twitter.com/kocsmy)
