@@ -1,4 +1,7 @@
 # Awesome Remote Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+![Awesome Remote Research header image](https://raw.githubusercontent.com/whitingx/awesome-remote-research/master/awesome-remote-research-header.png)
+
 A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs welcome.
 
 ## Table of Contents
@@ -67,6 +70,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 [Moderating UX research with Zoom](https://uxdesign.cc/moderating-ux-research-with-zoom-1d4e89614277) - [David Hamill](https://twitter.com/dav_hamill)
 
 ### 2017
+
+[Getting the Most Out of Remote Research and Testing](https://interactions.acm.org/archive/view/march-april-2017/getting-the-most-out-of-remote-research-and-testing)
 
 [How to Perfect and Leverage Remote UX Workshops](https://www.toptal.com/designers/ux/mastering-remote-ux-workshops)
 
