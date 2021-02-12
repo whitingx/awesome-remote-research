@@ -115,6 +115,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [Remote UX Research Tools](http://remoteresear.ch/tools/)
 
+[Taskade](https://taskade.com/)
+
 ### Retrospectives
 
 [Metro Retro](https://metroretro.io/)
