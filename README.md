@@ -33,6 +33,8 @@ A collection of all things Remote Research. Inspired by 'awesome-*' repos. PRs w
 
 [How to run a remote design sprint](https://www.abstract.com/blog/run-a-remote-design-sprint/)
 
+[Remote User Research Tips](http://salmapatel.co.uk/user-research/remote-user-research-tips/) - [Dr Salma Patel](https://twitter.com/DrSalmaPatel)
+
 [Remote working &  facilitation sessions ](https://www.thisismilk.co.uk/blog/remote-working-facilitation-sessions)
 
 [Switching from in person to remote UX Research](https://www.hellopingpong.com/blog/switching-from-in-person-to-remote-ux-research-in-the-time-of-coronavirus) - [Zsolt Kocsmarszky](https://twitter.com/kocsmy)
